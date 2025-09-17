@@ -7,4 +7,5 @@ Play against a friend in the browser and enjoy the classic game!
 - 2-player mode
 - Responsive UI
 - Restart game option
+- Reset game option
 
