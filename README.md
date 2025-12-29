@@ -9,3 +9,5 @@ Play against a friend in the browser and enjoy the classic game!
 - Restart game option
 - Reset game option
 
+##Live Demo:
+https://tanisharse.github.io/Tic-Tac-Toe-game-v2/
